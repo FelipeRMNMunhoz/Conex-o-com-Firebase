@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Aula 7</string>
+    <string name="titulo">Jogo de pontuação</string>
+    <string name="nome_jogador">Nome do jogador</string>
+    <string name="pontos_atuais">%1$d pontos</string>
+    <string name="diminuir">−1</string>
+    <string name="aumentar">+1</string>
+    <string name="salvar_rodada">Salvar pontuação</string>
+    <string name="ranking">Ranking</string>
+    <string name="item_ranking">%1$s — %2$d pontos</string>
+    <string name="ranking_vazio">Nenhuma pontuação salva.</string>
+    <string name="configurar_firebase">Configure o Firebase para salvar e carregar o ranking.</string>
+    <string name="nome_obrigatorio">Informe o nome.</string>
+    <string name="pontuacao_corrigida">Nova pontuação</string>
+    <string name="pontos_invalidos">Informe uma pontuação válida (zero ou maior).</string>
+    <string name="editar_resultado">Corrigir pontuação</string>
+    <string name="id_registro">ID: %1$s</string>
+    <string name="corrigir">Corrigir</string>
+    <string name="apagar">Apagar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar_exclusao">Apagar resultado?</string>
+    <string name="confirmar_item">Apagar somente a pontuação de %1$s?</string>
+    <string name="salvo">Pontuação salva.</string>
+    <string name="corrigido">Pontuação corrigida.</string>
+    <string name="apagado">Pontuação apagada.</string>
+    <string name="inexistente">Esse registro não existe mais.</string>
+    <string name="erro">Erro no Firebase.</string>
+    <string name="firebase_database_url" translatable="false"></string>
+</resources>
